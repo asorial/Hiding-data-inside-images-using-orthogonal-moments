@@ -1,0 +1,35 @@
+# Images
+pillow
+imageio
+
+# Tests
+pytest 
+
+# Math
+numpy
+matplotlib
+
+# Science
+scipy
+opencv-python
+mpmath
+pandas
+pyswarms
+pyyaml
+scikit-learn
+ipython
+
+# Test
+coverage
+
+# DICOM
+pydicom
+deid
+
+# Tests
+pytest 
+factory-boy
+
+
+# Latex
+array_to_latex
